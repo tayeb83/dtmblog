@@ -1,8 +1,10 @@
 ---
 layout: page
 title: "من أنا ؟"
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
 اسمي مرابطي طيب من مواليد 9 مارس 1983 بمدينة سعيدة في غرب الجزائر. بعد حصولي على شهادة مهندس دولة في الاعلام الالي, انتقلت الى فرنسا أين تحصلت على شهادة ماستر ثم شهادة الدكتوراه في الاعلام اﻷلي في عام 2010 تحت عنوان "طرق و أدوات الية من أجل ربط المكنزات الطبية" في جامعة روان Rouen بفرنسا. منذ ذلك الحين أزاول مهامي كمهندس بحث في فريق CISMeF بالمستشفى الجامعي بروان (CHU de ROUEN). لدي العديد من المنشورات في عدد من الجرائد أو المؤتمرات : 
-[منشوراتي](https://sites.google.com/site/tayebmerabti/publications). يمكنكم مراسلتي على هذا الايميل <tayeb.merabti@gmail.com>.The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[منشوراتي](https://sites.google.com/site/tayebmerabti/publications). 
+
+يمكنكم مراسلتي على هذا الايميل <tayeb.merabti@gmail.com>.
