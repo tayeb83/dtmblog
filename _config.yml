@@ -24,8 +24,8 @@ baseurl: "/dtmblog"
 ###############################################
 
 navbar-links:
-  About Me: "من أنا"
-  Author's home: "https://tmerabti.site/"
+  من أنا: "من أنا"
+  موقعي الشخصي: "https://tmerabti.site/"
 
 ################
 # --- Logo --- #
