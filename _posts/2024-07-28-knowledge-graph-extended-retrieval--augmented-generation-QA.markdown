@@ -3,6 +3,8 @@ layout: post
 title:  "تلخيص مستفيض ومبسّط لورقة «Knowledge Graph-extended Retrieval-Augmented Generation for Question Answering»"
 date:   2025-07-28
 tags:   KG LLM RAG Question-Answering MetaQA
+cover-img: /assets/img/kg-qa-cover.png
+thumbnail-img: /assets/img/kg-qa-cover.png
 lang:   ar
 ---
 
