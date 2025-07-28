@@ -15,6 +15,10 @@ title: مدونة الطيب الضادي
 # Your name to show in the footer
 author: الطيب الضادي
 
+url: "https://tmerabti.site"
+baseurl: "/dtmblog"
+
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
