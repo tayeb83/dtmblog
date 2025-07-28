@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
+title: "من أنا ؟"
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+اسمي مرابطي طيب من مواليد 9 مارس 1983 بمدينة سعيدة في غرب الجزائر. بعد حصولي على شهادة مهندس دولة في الاعلام الالي, انتقلت الى فرنسا أين تحصلت على شهادة ماستر ثم شهادة الدكتوراه في الاعلام اﻷلي في عام 2010 تحت عنوان "طرق و أدوات الية من أجل ربط المكنزات الطبية" في جامعة روان Rouen بفرنسا. منذ ذلك الحين أزاول مهامي كمهندس بحث في فريق CISMeF بالمستشفى الجامعي بروان (CHU de ROUEN). لدي العديد من المنشورات في عدد من الجرائد أو المؤتمرات : 
+[منشوراتي](https://sites.google.com/site/tayebmerabti/publications). يمكنكم مراسلتي على هذا الايميل <tayeb.merabti@gmail.com>.The_Princess_Bride_%28film%29) and it will answer **all** your questions.
