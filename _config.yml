@@ -36,7 +36,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/binz_dtmde.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -140,8 +140,8 @@ page-col: "#fff8ef"        # fond légèrement beige, doux
 text-col: "#222222"
 link-col: "#218838"        # vert, couleur du monde arabe/musulman
 hover-col: "#b22222"       # rouge sombre
-navbar-col: "#00796b"      # turquoise foncé
-navbar-text-col: "#fff"
+navbar-col: "#00796b"         # vert foncé (OK)
+navbar-text-col: "#ffffff"    # blanc pur, très lisible
 footer-col: "#f3e5ab"
 footer-text-col: "#383838"
 footer-link-col: "#004d40"
