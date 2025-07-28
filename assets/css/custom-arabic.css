@@ -3,22 +3,70 @@ body {
   background-color: #fff8ef;
   color: #222;
 }
+
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.5px;
+  font-family: 'Cairo', 'Amiri', 'Tajawal', Arial, sans-serif !important;
 }
+
 a, .navbar a {
-  color: #218838 !important;
+  color: #257a6a !important;    /* Vert profond pour les liens */
+  text-decoration: none;
+  transition: color 0.2s;
+  font-weight: bold;
 }
+
 a:hover, .navbar a:hover {
-  color: #b22222 !important;
+  color: #e2b857 !important;   /* Or doux en survol */
 }
-.navbar, .footer {
-  background: #00796b !important;
-}
-.footer {
+
+.navbar {
+  background: #257a6a !important;     /* Vert profond */
   color: #fff !important;
+  border-bottom: 3px solid #e2b857;   /* Ligne dorée élégante */
+}
+.navbar a, .navbar-text {
+  color: #fff !important;              /* Texte du menu en blanc */
+}
+
+.footer {
+  background: #257a6a !important;      /* Même vert profond */
+  color: #fff !important;
+  border-top: 2px solid #b7e4c7;       /* Ligne pistache douce */
+}
+
+.card, .post, .page {
+  background: #fff !important;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(37, 122, 106, 0.09);
+  margin-bottom: 2rem;
+  padding: 2rem;
 }
 
 .pagination {
   justify-content: flex-end;
 }
+
+/* Accents dorés pour les titres */
+h2, h3 {
+  color: #257a6a !important;
+  border-right: 5px solid #e2b857;
+  padding-right: 10px;
+  margin-bottom: 20px;
+}
+
+/* Accent de survol sur les boutons ou liens importants */
+.btn, .button, .read-more {
+  background: #e2b857;
+  color: #257a6a;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 18px;
+  font-weight: bold;
+  transition: background 0.2s, color 0.2s;
+}
+.btn:hover, .button:hover, .read-more:hover {
+  background: #257a6a;
+  color: #fff;
+}
+
