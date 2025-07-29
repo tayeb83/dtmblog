@@ -4,8 +4,8 @@ title: "ما هي القفزات (Hops)، لماذا «تَهْلُس» نماذ
 date: 2025-07-29
 categories: ذكاء-اصطناعي
 tags: [LLM, Knowledge-Graph, UMLS, Hops, تشخيص_طبي]
-cover-img: /assets/img/medical-kg-cover.jpg
-thumbnail-img: /assets/img/medical-kg-cover.jpg
+cover-img: /assets/img/medical-kg-cover.png
+thumbnail-img: /assets/img/medical-kg-cover.png
 ---
 
 ## ملخّص تنفيذي
