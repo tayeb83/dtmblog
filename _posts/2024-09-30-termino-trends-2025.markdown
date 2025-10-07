@@ -5,6 +5,9 @@ date: 2025-09-30
 lang: ar
 tags: [مصطلحات طبية, SNOMED CT, LOINC, ICD-11, FHIR, قابلية التشغيل البيني, ذكاء اصطناعي, NLP]
 summary: "عرض مُبسّط لأبرز تحديثات SNOMED CT وLOINC وICD-11، وتكامل خدمات مصطلحية عبر FHIR، ودور الذكاء الاصطناعي وNLP في الإغناء الدلالي والمواءمة بين الأنطولوجيات، مع لمحة عن المبادرات الأوروبية والفرنسية والتحديات الأخلاقية والتنظيمية."
+cover-img: /assets/img/cover_trends_health.png
+thumbnail-img: /assets/img/cover_trends_health.png
+
 ---
 
 # أحدث التوجّهات والأبحاث في مجال المصطلحات الطبية
