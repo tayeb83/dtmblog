@@ -5,7 +5,8 @@ date: 2025-09-29
 lang: ar
 tags: [FHIR, معايير, صحة رقمية, HL7, المصطلحات, IPS, R4, R5]
 summary: "ملخّص تعليمي موسّع لنتائج مسح 2025 العالمي حول FHIR: مستوى الاستخدام، الإصدارات السائدة، ذكر FHIR في الأطر التنظيمية، أبرز حالات الاستخدام، الأدوات المنتشرة، وأهم التحديات والآفاق."
-cover: /assets/img/fhir-2025-ar.jpg
+cover-img: /assets/img/fhir_2025.png
+thumbnail-img: /assets/img/fhir_2025.png
 ---
 
 > **المصدر**: *2025 State of FHIR® Survey Results* (مايو 2025) بتنظيم HL7 International وFirely. جميع الأرقام أدناه مأخوذة من التقرير. :[The State of FHIR in 2025: Growing adoption and evolving maturity](https://www.hl7.org/documentcenter/public/white-papers/2025%20State%20of%20FHIR%20Survey%20Report.pdf "The State of FHIR in 2025: Growing adoption and evolving maturity")
