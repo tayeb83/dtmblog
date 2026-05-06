@@ -15,7 +15,7 @@ title: مدونة الطيب الضادي
 # Your name to show in the footer
 author: الطيب الضادي
 
-url: "https://tmerabti.site"
+url: "https://tmerabti.me"
 baseurl: "/dtmblog"
 
 
@@ -25,7 +25,7 @@ baseurl: "/dtmblog"
 
 navbar-links:
   من أنا: "aboutme"
-  موقعي الشخصي: "https://tmerabti.site/"
+  موقعي الشخصي: "https://tmerabti.me/"
 
 ################
 # --- Logo --- #
